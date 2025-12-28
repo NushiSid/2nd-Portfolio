@@ -1,21 +1,10 @@
-#aa{
-    margin-top: 50px;
-    padding-top: 50px;
-    background-color: mintcream;
-    color:rgb(56, 0, 103) ;
-    padding-bottom: 50px;
-}
-img{
-    height: 150px;
-    width: 160px;
-}
 
-#rw{
-    margin-left: 130px;
+.container{
+    background-color: rgb(205, 252, 240);
 }
-
-#bdp{
-    height: 300px;
-    width: 450px;
-
+.container-fluid{
+    background-color:rgb(226, 196, 255);
+}
+div{
+    height: 40px;
 }
