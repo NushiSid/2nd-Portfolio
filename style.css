@@ -22,3 +22,7 @@ img{
 #mdl{
     color: rgb(20, 0, 130);
 }
+.carousel-inner img{
+    height: 75%;
+    width: 100%;
+}
